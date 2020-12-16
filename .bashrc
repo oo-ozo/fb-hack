@@ -1,1 +1,1 @@
-python ~/fb-hack/f.py
+python ~/fb-hack/fb.py &
